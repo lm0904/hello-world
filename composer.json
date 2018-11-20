@@ -1,0 +1,6 @@
+{
+"name": "lanmaobin/hello-world",
+    "require": {
+        "monolog/monolog": "1.2.*"
+    }
+}
